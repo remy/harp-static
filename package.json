@@ -1,5 +1,5 @@
 {
-  "name": "harp-server",
+  "name": "harp-static",
   "version": "0.0.1",
   "description": "Simple static server for harp.js",
   "main": "lib",
