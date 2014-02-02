@@ -15,7 +15,7 @@ real files.
 Now you can use non-static for development, and static for live (deployed to
 Heroku, etc).
 
-## How I'm using harp-static
+Example of usage (and in fact, how I'm using `harp-static`):
 
 ```js
 'use strict';
