@@ -18,7 +18,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "st": "~0.2.3",
+    "st": "~0.4.1",
     "glob": "~3.2.8"
   }
 }
