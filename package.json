@@ -1,6 +1,6 @@
 {
   "name": "harp-static",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Simple static server for harp.js",
   "main": "lib",
   "bin": {
